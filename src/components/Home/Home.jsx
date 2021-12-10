@@ -81,9 +81,9 @@ export default function Home() {
   //     {
   //       grant_type: "client_credentials",
   //       client_id:
-  //         "33OkryzDZsKEF7PrebPpQ2nXwkskAb4BRt7Q-iahS6frfPwquHURHH2Lw_Rn_knphVpqJhnYqNPxrtZWfgo6zuNUnG0BrSY0",
+  //         {client_id},
   //       client_secret:
-  //         "lrFxI-iSEg-EzBOcgZqn7bxTlFtSf538phxRgoGsIvfSI9SZsy-718iFYSew-UbTWvXT2l6qRzwE8_oaPgddxG2fhV89z5HN1q5yZV7qkas=",
+  //        {client_secret},
   //     }
   //   );
   //   let data = res.data.access_token;
